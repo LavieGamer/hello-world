@@ -1,2 +1,2 @@
 # hello-world
-Hello this will be for ideas
+Hello this will be for the final project
